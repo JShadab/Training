@@ -1,1 +1,0 @@
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?types=restaurant&key=AIzaSyDO828KthS_MeVkzLqdtRZRCCfQ91mrfCw&amp;libraries=places,geometry"></script>
