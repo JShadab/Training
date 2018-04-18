@@ -169,3 +169,12 @@ INSERT INTO `user_saved_plan` (`id`, `email`, `plan_id`, `type`) VALUES
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
 /*!40014 SET FOREIGN_KEY_CHECKS=IF(@OLD_FOREIGN_KEY_CHECKS IS NULL, 1, @OLD_FOREIGN_KEY_CHECKS) */;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+
+
+
+
+
+
+
+https://click.pstmrk.it/2sm/www.hackerrank.com%2Ftests%2Fg47fst1q8hb%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6ImNvb2xzaGFkMTJAZ21haWwuY29tIiwicGFzc3dvcmQiOiI0NjhiY2Q0NiIsImhpZGUiOnRydWV9/HWGWbAE/EDcI/Vnu2JYujsO/aHJ3LXRlc3QtaW52aXRl
+
