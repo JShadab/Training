@@ -1,0 +1,197 @@
+When compare to Java or any other language Py is veri easy..
+
+py is general purpose high level prog lang.
+
+general purpose:----
+data science
+m/c learning
+web desiging
+desktop
+
+Python is developed by:  Guido Van Rossam -->1989 NRI(Nation Research Institute in Neitherland)
+
+officialy: Feb 20th 1991 made availbale to public.
+
+Py is highly recommended language for beginer.
+
+Why??
+we can write prog very easily just like english statement writes with less code...concise code.
+
+Hello World in Java
+Hello World in C
+Hello World in Python
+
+but u can do these thing in java 9 using JShell--> sept 21  2017----Java 1.9
+
+
+Sum of two number in java.
+Sum of two number in Python.
+
+ a,b=10,20(no other prog lang provide this feature)
+ print(a+b)
+advantage big big bg code into small python code
+
+type of a and b???	
+
+C/Java are statically Types programing language..
+Py is dynamically Types programing language..
+
+no need of semi colons.
+>type(a)
+
+Wht named Python---Popular TV show BBC.... 1969 to 1974
+Monty
+Python's
+Circus
+
+ Guido borrow..
+ 1.functional prog feature from C |--> function
+ 2.OOP prog feature from C++ |--> class
+ 3.scripting lang features from PERL/ shell script
+ 4.modular prog features from Modula-3 |-->into mosules....
+ 
+ most of the syntax borrowed from C and ABC programing lang.
+ 
+ 
+ Where we can Use Python?
+ we can developed -- 1. Desktop Application...
+					 2. web application. (DJango, Flask,pyramid...)
+					3.  Database related application.
+					3.  Network related application.
+					3.  Game related application.
+					3.  Data CSience application.
+					3.  Machine Learning CSience application.
+						AI
+						Iot
+						Mobile based----py that much recommnede, at this time, may be solved in future...
+					 
+					 
+ 
+Which company Uses Python?
+1. Google
+Open Stack
+youtybe
+dropbox
+NASA	
+
+No of keyword: 30 but in java 53			 
+					 
+Feature of Python
+---------------------
+
+1. Simple and easy to learn
+---------------------------
+2. Free ware and open source like Java not C#.
+---------------------------
+3. High level programming language.
+---------------------------
+4. Plateform Independent.
+---------------------------
+5. Portability.--moving py prog to one plateform top another plateform  very easily without performing any change...
+-----------------------------------------------------------------
+6. Dynamically Typed******
+---------------------------------------------
+7. Both Proceedure and Object Oriented
+---------------------------------------------
+8. Interpreted
+----------------------
+9. Extensible 
+
+we have some code in java(1 lakh lines of code)
+we can improve performance of the application.  
+----------------------------------------------------
+10. Embedded
+we can use python prog in any languages... 
+
+----------------------------------------------------
+11. Extensive Library
+
+if internal implementaion is not good we can customize it.
+
+pyhton ----->Jython i.e. Java Python, is customized version for python working with java.
+
+
+Limitation:
+---------------
+1. Performance due to interpred language
+2. Mobile Applications..
+
+Lecture3:
+
+Myth:
+Python is not suitable for large scale enterprise application.
+------------------------------------------------------------------
+
+Since python is open sourve, so multiple python flavors are :
+
+1. CPython- Standard flavor of python work with C langauge application.
+-------------------------------------------------------------------------
+2. JPython or Jython- Standard flavor of python work with Java langauge application.
+-------------------------------------------------------------------------
+3. IronPython  Standard flavor of python work with c# langauge application. 
+-------------------------------------------------------------------------
+4. Pypy --> PVM-->JIT  (perforformance)
+-------------------------------------------------------------------------
+5. RubyPython --Standard flavor of python work with Ruby langauge application.
+-------------------------------------------------------------------------
+6. AnacondaPython --Standard flavor of big data application.
+-------------------------------------------------------------------------
+7. Stackless --Python for Concurency.	
+
+
+Python versions:
+-------------------
+
+Current version: 3.6.5
+
+total 3 version:
+----------------------------------------------------
+Python 1.0 introduced Jan 1994,  almost gone....
+Python 2.0 introduced Oct 2000, end support by 2020.
+Python 3.0 introduce Dec 2008	
+
+Any new version should provide support for old version programs.
+In Python there is no backword suupport...		 
+
+eg print "hello"	in py2	
+   print ("hello")	in py3		 
+	
+
+long data type is in py2 but not in py3	
+
+
+Identifiers:
+definition:
+
+Rules to define identifiers in Python:
+--------------------------------------------------------
+
+1. alphabets symbols( both upper case and lower case), digit (0 to 9), underscore(_)
+ cash=10  //valid
+ ca$h=10 //invalid
+
+2. Identifier should not start with digit.
+total123=10 //valid
+123total //invalid 
+
+3.Identifiers are Case sensitive
+total=10
+TOTAL=20
+
+4. can not use keyword as identifier.
+
+x=10 //valid
+if=20 //invalid
+
+5. length---->max charactor allowed for identifier--> No length limit for Python identifier. 
+but not recommended to lenghy identifier...
+
+if identifier start with '_' it is private.
+if identifier start with double '_' -->'__' it is strongly private. 
+eg. __main__  -> language specific identifier i.e. special identifier used by Python.
+
+					 
+					 
+					 
+					 
+					 
