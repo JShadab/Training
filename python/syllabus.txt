@@ -1,0 +1,66 @@
+
+    Getting Started:
+
+            What is Python?
+            Comparison of Python with other languages o Salient feature of Python
+            Execution model of Python o User Domains for Python
+            Industries using Python
+            Job Trends
+
+    Introduction:
+
+            Installing Python
+            Python Installer
+            Python 2 v/s Python 3
+            Indentation in Python
+			
+	Core Python:
+			Data Types and Variables
+			Numbers
+			Comments in Python
+			Strings
+			
+		Data Structure:			
+			List
+			Tuple
+			Set
+            Dictionary
+			Comparison of List, Tuple and Set
+
+		Programing Construct:
+			Control Structure
+			Looping
+			User-Defind and library Functions
+		
+		Input-Output:
+			Basic I/O
+			File handling
+    
+		Object Orient Python:
+			OOPS Concepts and its Implementation(class, object, inheritance, encapsulation, polymorphism)
+			Modules
+			Standard Modules
+			
+		Exception Handling:
+			try-except-finally and its use cases
+		
+		Other Useful Topic:
+			Lamda Function
+			Regular expression
+			Logging in Python
+			Multithreading in Python
+			Command Line Argument
+			famous libraries like Numpy, Pandas, Scipy
+			famous Development environments like Anaconda, Atom, PyCharm IDE, Python IDLE, Jupyter Notebook.
+			
+			
+			
+	Advance Python:
+	
+		Database:
+			PDBC (Python Database Connectivity) with SQLite/MySql/Oracle
+			
+		Web application development:
+			HTML+CSS+JavaScript + Flask Framework
+			
+Interview Questions discusstion with assignments and Mini Project Discussion Based on Real Time Problem

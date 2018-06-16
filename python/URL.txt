@@ -1,0 +1,4 @@
+http://ibiblio.org/g2swap/byteofpython/read/index.html
+
+
+http://www.diveintopython3.net/

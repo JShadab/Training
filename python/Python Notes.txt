@@ -190,7 +190,102 @@ if identifier start with '_' it is private.
 if identifier start with double '_' -->'__' it is strongly private. 
 eg. __main__  -> language specific identifier i.e. special identifier used by Python.
 
-					 
+
+Video4
+
+Reserved words:
+---------------------
+33 keywords
+
+True,False,None -->3
+and,or,nor,is -->4
+if,else,elif -->3
+for,while,break,continue,return,in,yield -->7
+try,except,finally,raise,assert -->5
+import,from,as,class,def,pass,global,nonlocal,lambda,del,with -->11
+
+Note:
+1. Only alphabets symbols.
+2. Except first three kryword(literal) all remaining keyswords containing lowercase letter
+
+
+To Print all keyword:
+--------------------------
+import kwyword
+print(keyword.kwlist)
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Identifier
+Reserved Word
+Data Types:
+-------------------
+Dynamically typed language.
+
+int
+*long(only in Python2 not in Python3)
+float
+complex ====> 10+2j
+bool
+str
+bytes
+bytearray
+list
+range
+touple
+set
+frozenset
+dict
+None
+
+***In pYthon everything is an Object....
+
+a=10
+id(a) ==> address of an object
+
+1. int:
+----------
+Integral values-> number without decimal point.
+
+1. Decimal
+2. Binary
+4. Octal
+4. Hexadecimal
+
+
+1. Decimal(Base-10):
+-------------------
+0 to 9
+
+a=8786
+
+2. Binary (Base-2):
+-------------------
+0 and 1
+
+a=111    # It is decimal
+a=0b1111 # It is binary
+a=0B1111 # It is binary
+a=-0B1111# It is binary
+
+3. Octal (Base-8):
+-------------------
+0 to 7
+
+a=777 	# It is decimal
+a=0O77	# It is octal (zero than small o or capital O)
+a=0O77	# It is octal (zero than small o or capital O)
+
+4. Hexadecimal (Base-16):
+----------------------------
+0 to 9, a to f, A to F
+
+a=777 	# It is decimal
+a=0xFace	# valid
+a=0XBeef	# valid
+a=0XBeer	# invalid
+
+Video5				 
 					 
 					 
 					 
