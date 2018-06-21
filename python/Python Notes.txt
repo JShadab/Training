@@ -285,8 +285,211 @@ a=0xFace	# valid
 a=0XBeef	# valid
 a=0XBeer	# invalid
 
-Video5				 
-					 
-					 
-					 
-					 
+Video5
+--------------------------------------------------------------------------------------------
+
+bin()
+oct()
+hex()
+
+float data type:
+
+	f=123.456 # valid
+
+complex data type:	
+
+bool data type:	
+	
+str data type:
+
+In other languages
+
+single quotes --> char
+double quotes --> String
+triple quotes --> NA
+
+
+In Python languages
+
+single quotes --> string
+double quotes --> string
+triple quotes --> multi line string literal	
+	
+Video6
+--------------------------------------------------------------------------------------------	
+Slice operator like substring:
+
+s='shadab' |
+-------------------------
+| s	| h	| a	| d	| a	| b	|
+-------------------------
+positive index: Left to Right
+---------------
+s[0]  # 's'
+s[1]  # 'h'
+s[2]  # 'a'
+s[3]  # 'd'
+s[4]  # 'a'
+s[5]  # 'b'
+
+negative index:  Right To Left
+---------------
+s[-6]  # 's'
+s[-5]  # 'h'
+s[-4]  # 'a'
+s[-3]  # 'd'
+s[-2]  # 'a'
+s[-1]  # 'b'
+
+s[10]  # Index Error: string index out of range
+
+---------------------------
+syntax:  s[begin:end]---> return substring from begin index to end-1 index, end is excluded..
+		 s[begin:end:step]
+
+s[1:4] --->'had'
+
+s[2:4] ----'ad'
+
+s[1:] ---->(end default value is size-1)-->'hadab'
+
+s[:4] ---> begin default value is 0. -->'shad'
+
+
+s[:] ---> begin=0   end= size-1----->'shadab'
+
+s[-1:-4]  # '' , no such kind on IndexError
+
+s[100]  #  error not slice operator
+ 
+--------------------------------
+s='Java'
+
+s*10 # 'JavaJavaJavaJavaJavaJavaJavaJavaJavaJava'
+
+len(s) # 5
+			 
+Notes: 
+1. int,float,complex,bool,str  (Python's fundamental data types)
+
+2. char ==> str type only
+
+3. long ===>not available in Python3
+-----------------------------------------------
+
+
+Type Casting or Type coersion:
+-------------------------------- 
+1. int()
+2. float()
+3. complex()
+4. bool()
+5. str()
+---------------------------
+
+1. int(): to convert ant type to int type.
+---------------------------------------------
+
+x=int(123.456)  # 123
+
+x=int(10+20j)  # TypeError : Can't convert complex into int
+
+x=int(True)  # 1
+x=int(False)  # 0
+
+x=int('10')  # 10
+x=int('10.5')  # Value Error, Shoulb be int value in base-10
+
+x=int('ten') # ValueError	
+** dec(x)  , hahahah no dec()
+
+2. float(): to convert other type values to float type.
+---------------------------------------------
+
+x=float(10) # 10.0
+
+x=float(10+20j) # TypeError : Can't convert complex into float
+
+x=float(True) # 1.0	
+x=float(False) # 0.0				 
+
+x=float('10') # 10.0	
+x=float('10.5') # 10.5	
+
+x=float('ten') # ValueError	, either integral or decimal value in Base-10
+x=float('oB1111') # ValueError: could not convert string to float 'oB1111'
+
+
+Video7
+--------------------------------------------------------------------------------------------
+3. complex(): to convert other type values to complex type.
+
+Form1: complex(x) ---> x+0j
+Form2: complex(x,y) ----> x+yj
+
+-->Form1: complex(x) ---> x+0j:
+-----------------------------
+complex(10) # (10+0j)
+complex(10.5) # (10.5+0j)
+complex(True) # (1+0j)
+complex(False) # (0j)
+complex("10") # (10+0j)
+complex("10.5") # (10.5+0j)
+complex("ten") # ValueError
+complex("0B111") # ValueError
+
+-->Form2: complex(x,y) ---> x+yj:
+---------------------------------
+complex(10,20) # (10+20j)
+complex(True,False) # (1+0j)
+complex(10,20.5) # (10+20.5j)
+complex("10","20") # TypeError: complex() can't take second arg if first is a string.
+
+4. bool(): to convert other type values to bool type.
+
+
+for int argument:
+------------------
+bool(0) # False 
+bool(10) # True (Non zero)
+
+for float argument:
+------------------
+0.0 --->False
+all other -->True
+
+bool(0.0) # False
+bool(0.1) # True
+
+for complex argument:
+---------------------
+
+bool(10+20j) # if booth real and imaginary part are 0 then False, otherwise True
+
+bool(0+0j) # False
+bool(0+1j) # True
+
+for str argument:
+------------------
+If arg is empty string then it is treated as False, otherwise True
+
+bool('') #False
+bool('shad') # True
+
+Note: bool() Never gives  Error
+
+
+
+5. str(): to convert other type values to bool type. 
+No Restriction
+
+----------------------------------------------------------
+Immutable VS Fundamental Data Type: all FDT are immutable..
+--------------------------------------
+advantage--- Object reusability..
+
+x=10
+id(x)
+
+y=10
+id(y)
