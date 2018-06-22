@@ -493,3 +493,249 @@ id(x)
 
 y=10
 id(y)
+
+* we can create immutable classes in Python like Java
+
+x=10
+y=10
+------------------------------------
+how to check they are refer same object--- is operator.(not using id)
+-->reference comparisoion  (==)
+x is y #True
+y is x #True
+
+x=256
+y=256
+
+x is y # True
+
+x=257
+y=257
+
+x is y # False
+
+* Resusing object range is 0 to 256
+--------------------------------------
+
+For floating data type reusing is not there.
+
+x=10.0
+y=10.0
+
+x is y # False
+------------------------------------
+For complex data type reusing is not there.
+
+x=10+20j
+y=10+20j
+
+x is y # False
+------------------------------------
+* Why python object are immutable---> memory utilization and performance--> Resuability.
+
+Reusability Concept only in the following ranges:
+
+int==> 0 to 256   ==== Created When launched Python Interpreted...
+bool==> always	  ==== Created When launched Python Interpreted...
+str==> always
+float & complex==> never (always created new object....)
+
+We can not fix range of float because... 0 t0 1 there is infinite values..
+Strings are also infinite but they are created at Runtime as needed...
+-----------------------------------------------------------
+
+bytes data type: 
+-----------------
+It represents a group of byte numbers just like an array.
+
+1. in the range 0 to 256
+2. immutable
+
+Example:
+------------
+
+x=[10,20,30]
+b=bytes(x)
+
+print(b[0]) # 10
+print(b[1]) # 20
+print(b[-1]) # 30
+
+print(b[0:2]) # object representation
+
+for x in b: print(x)
+
+-----------------------------------------------------------
+
+bytearray data type: 
+--------------------
+It represents a group of byte numbers just like an array.
+
+1. in the range 0 to 256
+2. mutable/changeble
+
+list data type: 
+--------------------
+a group of values values into a single entity, insertion order is preserved and duplicate values are allowed.
+
+1. preserved order
+2. duplicates are allowed 
+3. Groawable
+4. Mutuable
+4. values should be enclosed with []
+5. index can be negative and postive int values
+6. slice operator is also applicable.
+7. Repeation operator is applicable(*)
+
+
+l=[]
+type(l) # <class 'list'>
+
+l.append(10)
+l.append(20)
+l.append(30)
+l.append(10)
+
+print(l) # [10,20,30,10]
+
+l.append('shadab') # hetrogenous values
+print(l) # [10,20,30,10,'shadab']
+
+l.append(None) # None values
+print(l) # [10,20,30,10,'shadab',None]
+
+l[0] # 10
+l[-1] #  (None)
+
+l[1:4] # [20,30,10,'shadab'] 
+-----------------------------------------------------
+
+video -9
+--------------
+s=[10,'shadab',True]
+
+print(2*s) # [10,'shadab',True,10,'shadab',True]
+
+
+tuple data type: 
+--------------------
+
+tuple= list + immutablity
+
+l=[1,2,3] # mutable collection
+t=(1,2,3) # immutable collection
+ 
+print(t[0]) # 1
+
+t[0]=100 # TypeError:  'tuple' object does not support item assignment
+
+
+range(): 
+---------------
+range data type represents a sequence of values.
+immutuable
+
+Form-1
+--------
+range(end) # 0 to (end-1)
+r=range(10) # 0 to 9 
+
+type(r) # <class 'range'>
+
+print(r) # range(0,10)
+
+for i in r: print(i)
+
+r[0] # 0
+r[0:3] # range(0,3)
+r[0]=777 # TypeError: 'range' object does not support item assignment
+
+Form-2
+--------
+range(begin,end) # begin to (end-1)
+
+
+Form-3
+--------
+range(begin,end,step) # begin to (end-1) increment by step size
+
+*) Only integer values.
+------------------------------------------------------------
+
+
+set data type: 
+---------------
+doesnot allow duplicate and doesnot preserved order
+
+set={1,2,3} 
+
+s={10,20,30,10,20,30}
+
+print(s) # {10,20,30}
+
+s[0] # TypeError: 'set' object does not support indexing  
+s[1:] # TypeError: 'set' object does not support subscriptable
+
+
+insertion order --No
+duplicates-- No
+hetrogenos--Yes
+growable--Yes
+index --No
+slicing--No
+Mutuable --Yes
+
+s.add('shadab')
+print(s) # {10,20,30,'shadab'}
+
+s.remove(20)
+print(s) # {10,30,'shadab'}
+
+==================================
+immutable --- mutuable:
+-------------------------
+bytes --- bytearray
+list --- tuple
+set --- frozenset
+==================================
+
+
+s={10,20,30}
+fs=frozenset(s)
+
+type(fs) # <class 'frozenset'>
+print(fs) # frozenset{{10,20,30}}
+
+fs.add(50) # AttributeError: 'frozenset' object has no attribute 'add'
+fs.remove(50) # AttributeError: 'frozenset' object has no attribute 'remove'
+
+--------------------------------------------------------------------------------------
+
+dict data type: 
+---------------
+
+dictionary(mutable)
+
+words-->meaning
+key--->value
+
+key-value pair (rollNum--Name)
+
+
+d={100:'abc',200:'xyz',300:'pqr'}
+
+
+d1={} # empty dictionary
+s=set() # empty set
+
+d1[100]='sunny'
+d1[200]='bunny'
+
+
+print(d1) # {100:'sunny',200:'bunny'}
+
+
+--------------------------------------------------
+
+None data type: Nothing something like null value in Java.
+---------------
