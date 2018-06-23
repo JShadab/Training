@@ -1,0 +1,125 @@
+﻿----------------------- Page 1-----------------------
+
+                  Syllabus: JavaEE Training Course 
+
+Week 1:- 
+
+    ⦁   Revision Of Core Java 
+
+Week 2:- 
+
+    ⦁   HTML 
+    ⦁   CSS 
+    ⦁   JavaScript 
+
+Week 3:- 
+
+WEB ARCHITECTURE 
+
+       ⦁   Web application Architecture 
+       ⦁   Http Protocol & Http Methods 
+       ⦁   Web Server & Web Container 
+
+SERVLETS 
+
+    ⦁        Servlet Interface 
+    ⦁       GenericServlet 
+    ⦁        HttpServlet 
+    ⦁        Servlet Life Cycle 
+
+                                                1 
+
+----------------------- Page 2-----------------------
+
+     ⦁        ServletConfig 
+     ⦁        ServletContext 
+
+Week 4 :- 
+
+     ⦁        Servlet Communication 
+
+                    1. Servlet-Browser communication 
+                                   ⦁   sendError 
+                                   ⦁   setHeader 
+                                   ⦁     sendRedirect 
+
+                  2. Web-component Communication 
+
+                              ⦁   Forward 
+                              ⦁   Include 
+
+JDBC (JavaDataBaseConnectivity) 
+      ⦁      Introduction of DBMS and SQL 
+      ⦁     Types of Drivers 
+      ⦁      Connection Modes 
+      ⦁      Statement 
+      ⦁      PreparedStatement 
+      ⦁   ResultSet 
+
+Week 5 :- 
+
+Session Managment 
+          Session Tracking Mechanisms 
+                                  ⦁   HttpSession 
+
+                                                           2 
+
+----------------------- Page 3-----------------------
+
+                                     ⦁   Cookies 
+                                     ⦁   URL-Rewriting 
+                                     ⦁   Hidden-Form Fields 
+
+     Filters & Wrappers 
+
+       
+
+Week 6 :- 
+
+                  
+
+JSP        
+              ⦁   Introduction 
+              ⦁   Jsp LifeCycle 
+              ⦁   Jsp Implicit Objects & Scopes 
+              ⦁   Jsp Directives 
+                                 1. page 
+                                2. include 
+                                3. taglib 
+
+             ⦁   Jsp Scripting Elements    
+                                 1.declaratives 
+                                2.scriptlets 
+                                3.expressions 
+
+ Week 7 :- 
+
+            ⦁   Jsp Actions 
+                            1. useBean  tag 
+                           2. setProperty tag 
+                           3. getProperty tag 
+                           4. include  tag 
+
+                                                               3 
+
+----------------------- Page 4-----------------------
+
+                           5. forward  tag 
+
+               ⦁    EL (Expression Language)                       
+               ⦁   JSTL & Tag Library 
+
+ Week 8 :- 
+
+                           PROJECT WORK 
+
+TOOL USED: 
+
+    ⦁             MyEclipse                                                     
+    ⦁             Tomcat 
+    ⦁              MySql with HiediSql 
+
+** Project duration may be exceeded by 2 week 
+         
+
+                                                  4 

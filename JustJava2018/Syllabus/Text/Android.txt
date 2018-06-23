@@ -1,0 +1,276 @@
+﻿----------------------- Page 1-----------------------
+
+                       Syllabus: Android Training Course 
+
+  Chapter 1: JAVA Concepts   
+
+     o    OOPs Concepts   
+
+     o    Inheritance in detail   
+
+     o    Exception handling   
+
+     o    Packages & interfaces   
+
+     o    JVM & .j ar file extension   
+
+     o    Multi threading (Thread class & Runnable Interface)   
+
+   
+
+  Chapter 2: SQL   
+
+     o    DML & DDL Queries in brief   
+
+  Chapter 3: Introduction to Android   
+
+     o    What is Android?    
+
+     o    Setting up development environment    
+
+     o    Dalvik Virtual Machine & .apk file extension   
+
+     o    Fundamentals:   
+
+            a.   Basic Building blocks - Activities,Services,Broadcast Receivers & Content providers   
+
+             b.   UI Components - Views & notifications   
+
+            c.   Components for communication -Intents & Intent Filters   
+
+     o    Android API levels (versions & version names)   
+
+        
+
+Chapter 4: Application Structure (in detail)   
+
+     o    AndroidManifest.xml   
+
+     o    uses-permission & uses-sdk   
+
+                                                               1 
+
+----------------------- Page 2-----------------------
+
+     o    Resources & R.j ava   
+
+     o    Assets   
+
+     o    Layouts & Drawable Resources   
+
+     o    Activities and Activity lifecycle    
+
+     o    First sample Application   
+
+     
+
+Chapter 5: Emulator-Android Virtual Device   
+
+     o    Launching emulator   
+
+     o    Editing emulator settings   
+
+     o    Emulator shortcuts   
+
+     o    Logcat usage   
+
+     o    Introduction to DDMS   
+
+     o    Second App :- (switching between activities)   
+
+               Develop an app for demonstrating the communication between Intents   
+
+   
+
+Chapter 6: Basic UI design   
+
+     o    Form widgets   
+
+     o    Text Fields   
+
+     o    Layouts   
+
+     o    [dip, dp, sip, sp] versus px   
+
+     o    Examples   
+
+      
+
+Chapter 7: Preferences   
+
+     o    SharedPreferences   
+
+                                                                    2 
+
+----------------------- Page 3-----------------------
+
+     o    Preferences from xml   
+
+     o    Examples   
+
+    
+
+Chapter 8: Menu   
+
+     o    Option menu   
+
+     o    Context menu   
+
+     o    Sub menu   
+
+     o    menu from xml    
+
+     o    menu via code   
+
+     o    Examples   
+
+Chapter 9: Intents (in detail)   
+
+     o    Explicit Intents    
+
+     o    Implicit intents   
+
+     o    Examples   
+
+Chapter 10: UI design   
+
+     o    Time and Date   
+
+     o    Images and media   
+
+     o    Composite   
+
+     o    AlertDialogs & Toast   
+
+     o    Popup   
+
+     o    Examples   
+
+   
+
+                                                                            3 
+
+----------------------- Page 4-----------------------
+
+Chapter 11: Tabs and Tab Activity   
+
+     o    Examples   
+
+Chapter 12: Styles & Themes   
+
+     o    styles.xml   
+
+     o    drawable resources for shapes, gradients (selectors)    
+
+     o    style attribute in layout file   
+
+     o    Applying themes via code and manifest file   
+
+     o    Examples   
+
+Chapter 13: Content Providers   
+
+     o    SQLite Programming   
+
+     o    SQLiteOpenHelper   
+
+     o    SQLiteDatabse   
+
+     o    Cursor   
+
+     o    Reading and updating Contacts    
+
+     o    Reading bookmarks   
+
+     o    Example  :   
+
+               Develop an App to demonstrate database usage. CRUD operations must be  
+implemented.   
+
+Chapter 14: Android Debug Bridge (adb) tool   
+
+Chapter 15: Linkify   
+
+     o    Web URLs, Email address, text, map address, phone numbers   
+
+     o    Examples   
+
+ Chapter 16: Adapters and Widgtes   
+
+                                                            4 
+
+----------------------- Page 5-----------------------
+
+     o    Adapters:-   
+
+           a.   ArrayAdapters    
+
+            b.   BaseAdapters   
+
+     o    ListView and ListActivity   
+
+     o    Custom listview    
+
+     o    GridView using adapters   
+
+     o    Gallery using adapters   
+
+     o    Examples   
+
+Chapter 17: Notifications   
+
+     o    Broadcast Receivers   
+
+     o    Services and notifications   
+
+     o    Toast   
+
+     o    Alarms   
+
+     o    Examples   
+
+Chapter 18: Custom components   
+
+     o    Custom Tabs   
+
+     o    Custom animated popup panels   
+
+     o    Other components   
+
+     o    Examples   
+
+Chapter 19: Threads   
+
+     o    Threads running on UI thread (runOnUiThread)    
+
+     o    Worker thread   
+
+     o    Handlers & Runnable   
+
+                                                                   5 
+
+----------------------- Page 6-----------------------
+
+     o    AsynTask (in detail)    
+
+     o    Examples   
+
+Chapter 20: Advanced   
+
+     o    Live Folders   
+
+     o    Using sdcards   
+
+     o    XML Parsing    
+
+     o    JSON Parsing   
+
+     o    Maps, GPS, Location based Services   
+
+     o    Accessing Phone services (Call, SMS, MMS)    
+
+     o    Network connectivity services   
+
+      
+
+                                                                         6 

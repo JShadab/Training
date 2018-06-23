@@ -1,0 +1,136 @@
+﻿----------------------- Page 1-----------------------
+
+                  Syllabus: JavaSE  Training Course 
+
+Week 1:- 
+
+    ⦁   Why Java and its importance 
+    ⦁   Introduction of OOPs 
+    ⦁   Java features 
+    ⦁   Java Class Structure and its member 
+    ⦁   Main method in java. 
+    ⦁   Printing in Java 
+    ⦁   Java Coding Convention 
+    ⦁   Java Data Types 
+    ⦁   Typecasting 
+    ⦁   Operators in Java 
+    ⦁   Method declaration in Java 
+    ⦁   Method calling in Java 
+    ⦁   Method overloading in Java 
+    ⦁   Constructor 
+    ⦁   Arrays 
+    ⦁   Conditional and looping Statement in java 
+
+Week 2:- 
+
+PACKAGE DECLARATION 
+    ⦁   Introduction to all predefined packages 
+    ⦁   User Defined Packages 
+    ⦁   Access Specifiers 
+
+                                               1 
+
+----------------------- Page 2-----------------------
+
+EXCEPTION HANDLING 
+    ⦁   Introduction 
+    ⦁   Pre Defined Exceptions          
+    ⦁   Try-Catch-Finally 
+    ⦁   Throws, throw 
+    ⦁   User Defined Exception examples 
+
+Week 3:- 
+
+    ⦁   Method Overiding 
+    ⦁   Field Hiding 
+    ⦁   Use of this  and super keyword 
+    ⦁   Constructor chaining using this() and super() 
+    ⦁   Abstract Classes,Final Classes 
+    ⦁   Interfaces 
+    ⦁   Reference assignment 
+    ⦁   Use of instanceof operator 
+    ⦁    Garbage Collections   
+    ⦁   Enum types 
+
+Week 4:- 
+
+INNER CLASSES 
+    ⦁   Introduction 
+    ⦁   Member inner class 
+    ⦁    Static inner class 
+    ⦁     Local inner class 
+    ⦁   Anonymous inner class 
+
+                                                  2 
+
+----------------------- Page 3-----------------------
+
+FUNDAMENTAL CLASSES 
+    ⦁   Object 
+    ⦁   String 
+    ⦁   StringBuffer/StringBuilder 
+    ⦁   Math 
+
+WRAPPERCLASSES 
+    ⦁   Introduction 
+    ⦁   Byte, Short, Integer, Long, Float, Double, Character,  
+       Boolean classes. 
+
+Week 5:- 
+
+COLLECTION FRAME WORK 
+    ⦁   Util Package interfaces, List, Set, Map 
+    ⦁   List interface 7 its classes 
+    ⦁   Set interface & its classes 
+    ⦁   Map interface & its classes 
+    ⦁   Generics 
+
+MULTITHREADING 
+    ⦁   Introduction 
+    ⦁   Thread Creations 
+    ⦁   Thread Life Cycle 
+    ⦁   Life Cycle Methods 
+    ⦁   Synchronization 
+
+                                           3 
+
+----------------------- Page 4-----------------------
+
+I/O STREAMS 
+   ⦁   File Creation 
+   ⦁   Reading and Writing Data from File 
+   ⦁   Reading and Writing Data from console using Scaner class  
+       and BufferedReader class 
+   ⦁   Object Saving(Serialization) 
+
+Week 6:- 
+
+JDBC (JavaDataBaseConnectivity) 
+    ⦁   Introduction of DBMS and SQL 
+    ⦁   Types of Drivers 
+    ⦁   Connection Modes 
+    ⦁   Statement 
+    ⦁   PreparedStatement 
+    ⦁   ResultSet 
+         
+
+Week 7:- 
+
+  GUI using SWING / AWT   
+   ⦁   Components 
+   ⦁   Event-Delegation-Model 
+   ⦁   Listeners 
+   ⦁   Layouts 
+   ⦁   Individual components JLable, JButton, JCheckBox,  
+       JRadioButton, 
+   ⦁   JList, JMenu, JTextField, JText Area,Jtable  etc. 
+
+                                      4 
+
+----------------------- Page 5-----------------------
+
+Week 8:- 
+
+                                 PROJECT WORK 
+
+                                                       5 

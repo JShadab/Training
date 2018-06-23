@@ -1,0 +1,106 @@
+﻿----------------------- Page 1-----------------------
+
+  
+  
+Overview  
+  
+Struts is the most popular and powerful framework for developing JSP  
+applications. In this training class, experienced Java developers learn  
+how to use Struts and the Model-View-Controller (MVC) design pattern to  
+build scalable, maintainable data-driven Web applications.  
+  
+  
+  
+Objectives  
+  
+At the end of Struts training course, the partcipants will be able to:  
+  
+    To teach attendees the mechanics of the Struts framework, the most  
+popular framework for building JSP applications.  
+  
+    To facilitate understanding of the Model-View-Controller (MVC) design  
+pattern and how it is best applied to Java Web development.  
+  
+    To teach students how to follow proper Struts architecture processes  
+in building their Struts applications.  
+  
+Suggested Audience - The Struts Framework training course is intended  
+for web developers who already have experience with building Java- 
+based web applications and want to learn how to build the next  
+generation of web applications using Struts.  
+  
+  
+Duration  
+  
+2 Month  
+  
+** Project duration may be exceeded by 1 week  
+  
+  
+  
+  
+  
+  
+  
+  
+
+----------------------- Page 2-----------------------
+
+COURSE CONTENT  
+  
+       Revision Of Servlet & Jsp  
+       Introduction to MVC  
+       Introduction and seting up Struts2  
+       StrutsPrepareAndExecuteFilter, ActionMapper.  
+       Struts 2 Configuration struts.xml  
+       Writing Action classes  
+       Understanding Action(interface)  
+       ActionSupport(class)  
+       Understanding Results, Result Types, Building our own Result  
+       Types.  
+       What is OGNL?  
+  
+                1. OGNL in Struts and Where OGNL is Used  
+               2. The common tasks in a web application  
+               3. Data transfer and type conversion  
+  
+       STRUTS 2 VALIDATION FRAMEWORK  
+  
+                1. Getting familiar with the validation framework  
+               2. Wiring your actions for validation  
+  
+       STRUST 2 TAGS  
+  
+                1. An overview of Struts tags  
+               2. Types of Tags  
+               3. Data Tags  
+               4. Control tags  
+               5.UI component tags  
+  
+          Struts 2 File Uploads  
+          Internationalization of Struts 2 application.  
+          Inversion Of Control using Dependency Injection (the Aware               
+            interfaces) SessionAware, ApplicationAware, RequestAware  
+          Creating  application using Struts2  
+  
+           HIBERNATE  
+  
+        1. Introduction To ORM (Object-Relation-Model) using Hibernate   
+        2. Setting Up Hibernate   
+        3.  Java Beans (Modal class)  
+        4.  Writing the Model Class with Annotations  
+        5.  Hibernate Query Language (HQL)  
+        6.  Writing CRUD (Create-Retreive-Update-Delete) using Hibernate.  
+  
+
+----------------------- Page 3-----------------------
+
+  
+  
+
+PREREQUISITES  
+  
+All attendees must have Java Jsp, Servlets ,JDBC API and Basic  
+Knowledge of xml.  
+  
+  

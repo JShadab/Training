@@ -1,0 +1,69 @@
+﻿----------------------- Page 1-----------------------
+
+                              Spring Framework 
+
+⦁        Introduction to Spring  
+
+⦁       Steps to use Spring Framework in applications 
+
+⦁        Understanding IOC and Dependency Injection 
+
+⦁        Understanding the bean life-cycle – Auto wiring and bean scopes 
+
+⦁       Annotation-based dependency injection 
+
+⦁       Adding behavior to an application using aspects – AOP 
+
+⦁       Creating and applying aspects 
+
+⦁        Introducing data access with Spring – JDBC through spring 
+
+⦁       Transactions in a Spring environment 
+
+⦁       Getting started with Hibernate in a Spring environment 
+
+⦁       Working with Spring MVC 
+
+⦁       Spring MVC Form Handling 
+
+⦁       Creating Views in Spring MVC 
+
+                                        Hibernate  
+
+⦁       What is the problem with JDBC - paradigm mismatch 
+
+⦁       What is ORM? 
+
+⦁        Understanding different components of Hibernate 
+
+⦁        How to persist objects using Hibernate 
+
+                                                 1 
+
+----------------------- Page 2-----------------------
+
+⦁        How to use mapping files, configuration files and Session object 
+
+⦁        Instance states 
+
+⦁        How to generate ID 
+
+⦁        How to implement Inheritance in Hibernate 
+
+⦁       Working with relationship between entities 
+
+⦁       Transactions in Hibernate 
+
+⦁       Querying with HQL (Hibernate Query Language) 
+
+⦁        Named and native queries 
+
+⦁       Working with Criteria Interface 
+
+⦁       Query by example - QBE 
+
+⦁       Caching and fetching 
+
+⦁        Using Hibernate in different types of applications 
+
+                                                  2 
