@@ -739,3 +739,47 @@ print(d1) # {100:'sunny',200:'bunny'}
 
 None data type: Nothing something like null value in Java.
 ---------------
+
+video 10:
+-------------------------------------------------------------------------------------------------
+Escape Sequence:
+\n
+\t
+\r -- goto first position of that line
+\b
+\f --- page down, go to nect page..
+\'
+\"
+\\
+\v --verticle tab
+
+-----------------------------
+Exp1: 
+	s="India is "great" country" #error
+Solutions:
+	s="India is \"great\" country"
+	s="India is 'great' country"
+	s='India is "great" country'
+
+Exp2: 
+	s="Python is "good" but, I Love 'Java'" #error
+Solutions:
+	s='''Python is "good" but, I Love 'Java' '''
+	s="""Python is "good" but, I Love 'Java'"""
+	s="Python is \"good\" but, I Love \'Java\'"
+
+Constant:
+----------
+In java:
+-----------------------
+final int x=10;
+x=11; //cannot....
+
+Thereis no way to specify declaring constant, but u can request by:
+
+MAX_VALUE=10
+
+------------------Lang Fundamental Over--------------------
+
+vedio-11:
+---------------------
